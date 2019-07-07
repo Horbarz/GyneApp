@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GyneApp</string>
+    <string name="gyneApp">GYNEAPP</string>
+    <string name="BtnSignIn">Login</string>
+    <string name="BtnRegister">Register</string>
+    <string name="search_gynea_text">Searching for gyneacologist?</string>
+</resources>

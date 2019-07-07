@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "362075291",
+    "firebase_url": "https://connamblog.firebaseio.com",
+    "project_id": "connamblog",
+    "storage_bucket": "connamblog.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362075291:android:24d4bdf260351ffa",
+        "android_client_info": {
+          "package_name": "com.example.gyneapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "362075291-03as1o7qcq2tcum4gad0am6ckht90hld.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gyneapp",
+            "certificate_hash": "f713cfbae914fa26b4d2b6d25dc04102be185334"
+          }
+        },
+        {
+          "client_id": "362075291-ki9cr0gjvt9sfot0qc5mjo2h14d4cp41.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDf4unANhiCofxVnZuUSxDf23r4sMX3uGo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "362075291-ki9cr0gjvt9sfot0qc5mjo2h14d4cp41.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
